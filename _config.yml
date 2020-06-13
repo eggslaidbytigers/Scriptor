@@ -25,6 +25,10 @@ github_username:
 
 # Build settings
 markdown: kramdown
+#show_excerpts: true
+#excerpt_length: 0
+hide_credits: true
+hide_search: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
